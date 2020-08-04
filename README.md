@@ -12,3 +12,5 @@ https://lernatino.github.io/run-buddy
 
 ## Contribution
 Made with love by Jake Fullmer
+
+### @2019 Run Buddy Inc,
